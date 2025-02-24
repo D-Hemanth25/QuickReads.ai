@@ -1,1 +1,1 @@
-# QuickReads.ai
+## QuickReads.ai
